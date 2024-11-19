@@ -30,4 +30,4 @@ _Technical aspects to consider:_
 
 _Figma Sketch - Link_
 
-- _https://www.figma.com/design/8RMu6nVesz2cypooCoaqWU/Untitled?node-id=0-1&t=PEZEM2iU1ktREHWD-1_ 
+- _https://www.figma.com/design/8RMu6nVesz2cypooCoaqWU/App-Sketch-Study-Cash?node-id=0-1&t=c0GkTCQwPtNsE9Ug-1_ 
