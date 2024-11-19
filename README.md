@@ -27,3 +27,7 @@ _Technical aspects to consider:_
 - Pulido Meza Carlos Antonio
 - Castro Victorio Johana Guadalupe
 - Farfán Rodríguez Gerardo Rafael
+
+_Figma Sketch - Link_
+
+- _https://www.figma.com/design/8RMu6nVesz2cypooCoaqWU/Untitled?node-id=0-1&t=PEZEM2iU1ktREHWD-1_ 
